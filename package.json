@@ -1,0 +1,22 @@
+{
+  "name": "hello-jquery",
+  "version": "1.0.0",
+  "description": "Follow through of the official jQuery tutorial",
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtannas/hello-jQuery.git"
+  },
+  "author": "Joel Tannas",
+  "bugs": {
+    "url": "https://github.com/jtannas/hello-jQuery/issues"
+  },
+  "homepage": "https://github.com/jtannas/hello-jQuery#readme"
+}
