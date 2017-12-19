@@ -1,3 +1,12 @@
 module.exports = {
-    "extends": "standard"
-};
+    "extends": "standard",
+    "env": {
+      "browser": true,
+      "commonjs": true,
+      "es6": true,
+      "jquery": true
+    },
+    "plugins": [
+      "html",
+    ],
+}
